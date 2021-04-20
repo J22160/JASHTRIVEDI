@@ -9,10 +9,13 @@ The data consists of cell images. The task is to identify whether the indiviual 
 
 ### Model used 
 **1. VGG19**
+
 VGG-19 is a convolutional neural network that is 19 layers deep. The pretrained network can classify images into 1000 object categories
+
 ![VGG19](https://user-images.githubusercontent.com/71454551/115407778-f6927500-a20d-11eb-890f-ddc4b7727185.png)
 
 **2.CNN model**
+
 It is a sequential model having 2 Convolutional Blocks and a Fully Connected Layer.
 
 ### Accuracy and loss graph 
