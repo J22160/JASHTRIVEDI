@@ -28,3 +28,10 @@ It is a sequential model having 2 Convolutional Blocks and a Fully Connected Lay
 
 ![CNN model accuracy](https://user-images.githubusercontent.com/71454551/115408166-47a26900-a20e-11eb-98c8-e0a7948dcf4d.png) ![CNN model loss](https://user-images.githubusercontent.com/71454551/115408270-59840c00-a20e-11eb-96fd-37126c556cda.png)
 
+### Score:
+
+![score](https://user-images.githubusercontent.com/71454551/115410516-538f2a80-a210-11eb-90dd-2ca52974ec85.png)
+
+### Conclusion 
+
+The pre-trained model outperforms the CNN Model and also has a higher mean accuracy. Fine tuning the pre trained model by using a 2 step process also contributes in a higher validation accuracy.
