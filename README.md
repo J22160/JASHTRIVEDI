@@ -3,6 +3,7 @@
 ### Input data:
 The data consists of cell images. The task is to identify whether the indiviual is infected to malaria or not.
 ![DATA IMAGE](https://user-images.githubusercontent.com/71454551/115407899-0d38cc00-a20e-11eb-8fbc-10dc84323b09.png)
+
 Training size: 416 images 
 Validation size: 134 images
 
